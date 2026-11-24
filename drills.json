@@ -1,14 +1,268 @@
 [
-{"id":"BB-F-001","level":"Foundations","category":"Ball Handling","title":"Two-Ball Rhythm Dribble","duration":5,"players":"1+","equipment":"2 basketballs","image":"create_a_polished_vector_style_caeb6fe207.png","setup":"One player with two basketballs in an athletic stance.","steps":["Dribble both balls at the same height.","Keep knees bent and eyes forward.","Progress to alternating the dribbles."],"cues":["Use fingertips","Stay low","Eyes up","Control before speed"],"progression":"Change dribble heights or walk forward while maintaining rhythm."},
-{"id":"BB-F-002","level":"Foundations","category":"Ball Handling","title":"Figure-8 Cone Weave","duration":6,"players":"1+","equipment":"1 ball, 2 cones","setup":"Place two cones about six feet apart.","steps":["Dribble around the first cone.","Cross between the cones.","Continue around the second cone to create a figure-eight path."],"cues":["Stay low","Change hands","Eyes forward","Accelerate after each turn"],"progression":"Require a crossover at the center of the figure eight."},
-{"id":"BB-F-003","level":"Foundations","category":"Shooting","title":"One-Hand Form Shooting","duration":8,"players":"1+","equipment":"1 ball, basket","setup":"Stand 3 to 5 feet from the basket.","steps":["Place the shooting hand under the ball.","Extend upward toward the rim.","Hold the follow-through until the ball reaches the basket."],"cues":["Elbow under ball","Soft wrist","Finish high","Balanced stance"],"progression":"Back up one step after making three controlled shots."},
-{"id":"BB-F-004","level":"Foundations","category":"Footwork","title":"Layup Footwork Progression","duration":8,"players":"1+","equipment":"1 ball, basket","setup":"Start several steps from the basket at a 45-degree angle.","steps":["Walk through the final two steps without a ball.","Add the ball and controlled dribble.","Finish softly off the backboard."],"cues":["Correct takeoff foot","Eyes on square","Knee up","Soft finish"],"progression":"Alternate sides and add a passive defender."},
-{"id":"BB-D-005","level":"Development","category":"Ball Handling","title":"Hesitation & Go","duration":7,"players":"1+","equipment":"1 ball, cone or defender","setup":"Use a cone or defender near the perimeter.","steps":["Attack under control.","Briefly rise and slow the dribble.","Drop low and explode past the obstacle."],"cues":["Sell the hesitation","Change speed","Push ball forward","Win the shoulder"],"progression":"Add a live defender and require a finish."},
-{"id":"BB-D-006","level":"Development","category":"Ball Handling","title":"Retreat Dribble Press Break","duration":7,"players":"2+","equipment":"1 ball","setup":"Ballhandler begins under controlled defensive pressure.","steps":["Protect the ball with the body.","Retreat diagonally to create space.","Change direction and attack the open lane."],"cues":["Keep dribble alive","Chin on shoulder","Create space","Do not turn blindly"],"progression":"Use a second defender to simulate a trap."},
-{"id":"BB-D-007","level":"Development","category":"Passing","title":"Give & Go","duration":8,"players":"3+","equipment":"1 ball","setup":"Two offensive players on the perimeter with a defender or cone.","steps":["Pass to the teammate.","Immediately cut toward the basket.","Receive the return pass in stride and finish."],"cues":["Pass then move","Cut hard","Show hands","Lead the cutter"],"progression":"Add a live defender denying the return pass."},
-{"id":"BB-D-008","level":"Development","category":"Defense","title":"Defensive Slide Box","duration":7,"players":"1+","equipment":"4 cones","setup":"Arrange four cones in a rectangle.","steps":["Begin in a low defensive stance.","Slide laterally to each cone without crossing the feet.","Stay square while changing directions."],"cues":["Chest up","Wide base","Push off back foot","No clicking heels"],"progression":"Coach points randomly to determine direction."},
-{"id":"BB-A-009","level":"Academy","category":"Footwork","title":"Drop-Step Pivot Footwork","duration":8,"players":"1+","equipment":"1 ball, basket","setup":"Start on the low block with back or shoulder toward the basket.","steps":["Establish the pivot foot.","Drop the opposite foot toward the baseline or lane.","Protect the ball and finish strong."],"cues":["Wide base","Stay balanced","Protect ball","Finish through contact"],"progression":"Read a live defender and select the correct direction."},
-{"id":"BB-A-010","level":"Academy","category":"Rebounding","title":"Hit-Find-Go Rebounding","duration":8,"players":"3+","equipment":"1 ball, basket","setup":"Place an offensive player and defender near the lane with a coach or shooter.","steps":["Make legal body contact on the shot.","Turn and locate the basketball.","Pursue the rebound with two hands."],"cues":["Hit first","Find the ball","Go get it","Chin the rebound"],"progression":"Play live after the rebound with an outlet target."},
-{"id":"BB-A-011","level":"Academy","category":"Shooting","title":"Catch-and-Shoot Spots","duration":10,"players":"2+","equipment":"1+ balls, basket","setup":"Choose three perimeter shooting locations.","steps":["Move into the first spot ready to shoot.","Catch on balance and shoot immediately.","Relocate quickly to the next spot."],"cues":["Feet ready early","Show target hands","Straight lift","Hold finish"],"progression":"Add a closing defender or timed makes goal."},
-{"id":"BB-A-012","level":"Academy","category":"Defense","title":"Closeout & Contain","duration":8,"players":"2+","equipment":"1 ball","setup":"Defender starts in the paint; ballhandler starts on the perimeter.","steps":["Sprint toward the ballhandler.","Shorten steps and arrive balanced.","Influence the drive and slide to contain."],"cues":["High hand","Chop feet","No fly-by","Keep chest in front"],"progression":"Play live for three dribbles after the closeout."}
+  {
+    "id": "BB-F-001",
+    "level": "Foundations",
+    "category": "Ball Handling",
+    "title": "Two-Ball Rhythm Dribble",
+    "duration": 5,
+    "players": "1+",
+    "equipment": "2 basketballs",
+    "image": "create_a_polished_vector_style_caeb6fe207.png",
+    "setup": "One player with two basketballs in an athletic stance.",
+    "steps": [
+      "Dribble both balls at the same height.",
+      "Keep knees bent and eyes forward.",
+      "Progress to alternating the dribbles."
+    ],
+    "cues": [
+      "Use fingertips",
+      "Stay low",
+      "Eyes up",
+      "Control before speed"
+    ],
+    "progression": "Change dribble heights or walk forward while maintaining rhythm."
+  },
+  {
+    "id": "BB-F-002",
+    "level": "Foundations",
+    "category": "Ball Handling",
+    "title": "Figure-8 Cone Weave",
+    "duration": 6,
+    "players": "1+",
+    "equipment": "1 ball, 2 cones",
+    "setup": "Place two cones about six feet apart.",
+    "steps": [
+      "Dribble around the first cone.",
+      "Cross between the cones.",
+      "Continue around the second cone to create a figure-eight path."
+    ],
+    "cues": [
+      "Stay low",
+      "Change hands",
+      "Eyes forward",
+      "Accelerate after each turn"
+    ],
+    "progression": "Require a crossover at the center of the figure eight.",
+    "image": "figure-8-cone-weave.png"
+  },
+  {
+    "id": "BB-F-003",
+    "level": "Foundations",
+    "category": "Shooting",
+    "title": "One-Hand Form Shooting",
+    "duration": 8,
+    "players": "1+",
+    "equipment": "1 ball, basket",
+    "setup": "Stand 3 to 5 feet from the basket.",
+    "steps": [
+      "Place the shooting hand under the ball.",
+      "Extend upward toward the rim.",
+      "Hold the follow-through until the ball reaches the basket."
+    ],
+    "cues": [
+      "Elbow under ball",
+      "Soft wrist",
+      "Finish high",
+      "Balanced stance"
+    ],
+    "progression": "Back up one step after making three controlled shots."
+  },
+  {
+    "id": "BB-F-004",
+    "level": "Foundations",
+    "category": "Footwork",
+    "title": "Layup Footwork Progression",
+    "duration": 8,
+    "players": "1+",
+    "equipment": "1 ball, basket",
+    "setup": "Start several steps from the basket at a 45-degree angle.",
+    "steps": [
+      "Walk through the final two steps without a ball.",
+      "Add the ball and controlled dribble.",
+      "Finish softly off the backboard."
+    ],
+    "cues": [
+      "Correct takeoff foot",
+      "Eyes on square",
+      "Knee up",
+      "Soft finish"
+    ],
+    "progression": "Alternate sides and add a passive defender."
+  },
+  {
+    "id": "BB-D-005",
+    "level": "Development",
+    "category": "Ball Handling",
+    "title": "Hesitation & Go",
+    "duration": 7,
+    "players": "1+",
+    "equipment": "1 ball, cone or defender",
+    "setup": "Use a cone or defender near the perimeter.",
+    "steps": [
+      "Attack under control.",
+      "Briefly rise and slow the dribble.",
+      "Drop low and explode past the obstacle."
+    ],
+    "cues": [
+      "Sell the hesitation",
+      "Change speed",
+      "Push ball forward",
+      "Win the shoulder"
+    ],
+    "progression": "Add a live defender and require a finish."
+  },
+  {
+    "id": "BB-D-006",
+    "level": "Development",
+    "category": "Ball Handling",
+    "title": "Retreat Dribble Press Break",
+    "duration": 7,
+    "players": "2+",
+    "equipment": "1 ball",
+    "setup": "Ballhandler begins under controlled defensive pressure.",
+    "steps": [
+      "Protect the ball with the body.",
+      "Retreat diagonally to create space.",
+      "Change direction and attack the open lane."
+    ],
+    "cues": [
+      "Keep dribble alive",
+      "Chin on shoulder",
+      "Create space",
+      "Do not turn blindly"
+    ],
+    "progression": "Use a second defender to simulate a trap."
+  },
+  {
+    "id": "BB-D-007",
+    "level": "Development",
+    "category": "Passing",
+    "title": "Give & Go",
+    "duration": 8,
+    "players": "3+",
+    "equipment": "1 ball",
+    "setup": "Two offensive players on the perimeter with a defender or cone.",
+    "steps": [
+      "Pass to the teammate.",
+      "Immediately cut toward the basket.",
+      "Receive the return pass in stride and finish."
+    ],
+    "cues": [
+      "Pass then move",
+      "Cut hard",
+      "Show hands",
+      "Lead the cutter"
+    ],
+    "progression": "Add a live defender denying the return pass."
+  },
+  {
+    "id": "BB-D-008",
+    "level": "Development",
+    "category": "Defense",
+    "title": "Defensive Slide Box",
+    "duration": 7,
+    "players": "1+",
+    "equipment": "4 cones",
+    "setup": "Arrange four cones in a rectangle.",
+    "steps": [
+      "Begin in a low defensive stance.",
+      "Slide laterally to each cone without crossing the feet.",
+      "Stay square while changing directions."
+    ],
+    "cues": [
+      "Chest up",
+      "Wide base",
+      "Push off back foot",
+      "No clicking heels"
+    ],
+    "progression": "Coach points randomly to determine direction."
+  },
+  {
+    "id": "BB-A-009",
+    "level": "Academy",
+    "category": "Footwork",
+    "title": "Drop-Step Pivot Footwork",
+    "duration": 8,
+    "players": "1+",
+    "equipment": "1 ball, basket",
+    "setup": "Start on the low block with back or shoulder toward the basket.",
+    "steps": [
+      "Establish the pivot foot.",
+      "Drop the opposite foot toward the baseline or lane.",
+      "Protect the ball and finish strong."
+    ],
+    "cues": [
+      "Wide base",
+      "Stay balanced",
+      "Protect ball",
+      "Finish through contact"
+    ],
+    "progression": "Read a live defender and select the correct direction."
+  },
+  {
+    "id": "BB-A-010",
+    "level": "Academy",
+    "category": "Rebounding",
+    "title": "Hit-Find-Go Rebounding",
+    "duration": 8,
+    "players": "3+",
+    "equipment": "1 ball, basket",
+    "setup": "Place an offensive player and defender near the lane with a coach or shooter.",
+    "steps": [
+      "Make legal body contact on the shot.",
+      "Turn and locate the basketball.",
+      "Pursue the rebound with two hands."
+    ],
+    "cues": [
+      "Hit first",
+      "Find the ball",
+      "Go get it",
+      "Chin the rebound"
+    ],
+    "progression": "Play live after the rebound with an outlet target."
+  },
+  {
+    "id": "BB-A-011",
+    "level": "Academy",
+    "category": "Shooting",
+    "title": "Catch-and-Shoot Spots",
+    "duration": 10,
+    "players": "2+",
+    "equipment": "1+ balls, basket",
+    "setup": "Choose three perimeter shooting locations.",
+    "steps": [
+      "Move into the first spot ready to shoot.",
+      "Catch on balance and shoot immediately.",
+      "Relocate quickly to the next spot."
+    ],
+    "cues": [
+      "Feet ready early",
+      "Show target hands",
+      "Straight lift",
+      "Hold finish"
+    ],
+    "progression": "Add a closing defender or timed makes goal."
+  },
+  {
+    "id": "BB-A-012",
+    "level": "Academy",
+    "category": "Defense",
+    "title": "Closeout & Contain",
+    "duration": 8,
+    "players": "2+",
+    "equipment": "1 ball",
+    "setup": "Defender starts in the paint; ballhandler starts on the perimeter.",
+    "steps": [
+      "Sprint toward the ballhandler.",
+      "Shorten steps and arrive balanced.",
+      "Influence the drive and slide to contain."
+    ],
+    "cues": [
+      "High hand",
+      "Chop feet",
+      "No fly-by",
+      "Keep chest in front"
+    ],
+    "progression": "Play live for three dribbles after the closeout."
+  }
 ]
