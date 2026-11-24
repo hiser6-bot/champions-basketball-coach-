@@ -1,4 +1,4 @@
-const CACHE_NAME = 'champions-basketball-v04';
+const CACHE_NAME = 'champions-basketball-v05';
 const APP_SHELL = [
   './',
   './index.html',
@@ -11,7 +11,13 @@ const APP_SHELL = [
   './one-hand-form-shooting.png',
   './layup-footwork-progression.png',
   './hesitation-and-go.png',
-  './retreat-dribble-press-break.png'
+  './retreat-dribble-press-break.png',
+  './give-and-go.png',
+  './defensive-slide-box.png',
+  './drop-step-pivot-footwork.png',
+  './hit-find-go-rebounding.png',
+  './catch-and-shoot-spots.png',
+  './closeout-and-contain.png'
 ];
 
 self.addEventListener('install', event => {

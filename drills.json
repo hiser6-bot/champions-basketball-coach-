@@ -157,7 +157,8 @@
       "Show hands",
       "Lead the cutter"
     ],
-    "progression": "Add a live defender denying the return pass."
+    "progression": "Add a live defender denying the return pass.",
+    "image": "give-and-go.png"
   },
   {
     "id": "BB-D-008",
@@ -179,7 +180,8 @@
       "Push off back foot",
       "No clicking heels"
     ],
-    "progression": "Coach points randomly to determine direction."
+    "progression": "Coach points randomly to determine direction.",
+    "image": "defensive-slide-box.png"
   },
   {
     "id": "BB-A-009",
@@ -201,7 +203,8 @@
       "Protect ball",
       "Finish through contact"
     ],
-    "progression": "Read a live defender and select the correct direction."
+    "progression": "Read a live defender and select the correct direction.",
+    "image": "drop-step-pivot-footwork.png"
   },
   {
     "id": "BB-A-010",
@@ -223,7 +226,8 @@
       "Go get it",
       "Chin the rebound"
     ],
-    "progression": "Play live after the rebound with an outlet target."
+    "progression": "Play live after the rebound with an outlet target.",
+    "image": "hit-find-go-rebounding.png"
   },
   {
     "id": "BB-A-011",
@@ -245,7 +249,8 @@
       "Straight lift",
       "Hold finish"
     ],
-    "progression": "Add a closing defender or timed makes goal."
+    "progression": "Add a closing defender or timed makes goal.",
+    "image": "catch-and-shoot-spots.png"
   },
   {
     "id": "BB-A-012",
@@ -267,6 +272,7 @@
       "No fly-by",
       "Keep chest in front"
     ],
-    "progression": "Play live for three dribbles after the closeout."
+    "progression": "Play live for three dribbles after the closeout.",
+    "image": "closeout-and-contain.png"
   }
 ]
