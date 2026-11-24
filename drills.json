@@ -274,5 +274,1148 @@
     ],
     "progression": "Play live for three dribbles after the closeout.",
     "image": "closeout-and-contain.png"
+  },
+  {
+    "id": "BB-F-013",
+    "level": "Foundations",
+    "category": "Passing",
+    "title": "Partner Bounce Pass",
+    "duration": 5,
+    "players": "2+",
+    "equipment": "1 basketball",
+    "image": "partner-bounce-pass.png",
+    "setup": "Partners 6–8 feet apart with one basketball.",
+    "steps": [
+      "Step toward your partner.",
+      "Bounce the pass about two-thirds of the way across.",
+      "Catch under control and return the pass."
+    ],
+    "cues": [
+      "Step toward target",
+      "Push the pass",
+      "Aim for waist height"
+    ],
+    "progression": "Increase the distance while maintaining accuracy."
+  },
+  {
+    "id": "BB-D-014",
+    "level": "Development",
+    "category": "Passing",
+    "title": "Triangle Pass & Follow",
+    "duration": 6,
+    "players": "3+",
+    "equipment": "1 ball, 3 cones",
+    "image": "triangle-pass-and-follow.png",
+    "setup": "Three players form a 10-foot triangle with one basketball.",
+    "steps": [
+      "Pass clockwise to the next player.",
+      "Immediately follow your pass to that spot.",
+      "Continue around the triangle, then reverse direction."
+    ],
+    "cues": [
+      "Show a target",
+      "Pass then move",
+      "Call names"
+    ],
+    "progression": "Add a second ball once spacing and communication are consistent."
+  },
+  {
+    "id": "BB-D-015",
+    "level": "Development",
+    "category": "Passing",
+    "title": "Shuffle & Pass",
+    "duration": 6,
+    "players": "2+",
+    "equipment": "1 ball, 2 cones",
+    "image": "shuffle-and-pass.png",
+    "setup": "Partners start about 8 feet apart in parallel lanes.",
+    "steps": [
+      "Shuffle together down the court.",
+      "Exchange controlled chest passes while moving.",
+      "Stop at the cone and return."
+    ],
+    "cues": [
+      "Face your partner",
+      "Soft hands",
+      "Controlled pace"
+    ],
+    "progression": "Increase pace while keeping passes on target."
+  },
+  {
+    "id": "BB-F-016",
+    "level": "Foundations",
+    "category": "Shooting",
+    "title": "Bank Shot Targets",
+    "duration": 7,
+    "players": "1+",
+    "equipment": "1 ball, basket",
+    "image": "bank-shot-targets.png",
+    "setup": "Start 3–5 feet from the basket at a 45-degree angle.",
+    "steps": [
+      "Square up under control.",
+      "Aim at the upper near corner of the backboard square.",
+      "Take five controlled shots from each side."
+    ],
+    "cues": [
+      "Soft touch",
+      "Eyes on target",
+      "Hold finish"
+    ],
+    "progression": "Move back one step after consistent makes."
+  },
+  {
+    "id": "BB-D-017",
+    "level": "Development",
+    "category": "Shooting",
+    "title": "Elbow Shot Shuttle",
+    "duration": 8,
+    "players": "2+",
+    "equipment": "1 ball, 2 cones, basket",
+    "image": "elbow-shot-shuttle.png",
+    "setup": "Place cones at both free-throw elbows with a rebounder near the basket.",
+    "steps": [
+      "Catch and shoot at one elbow.",
+      "Move immediately to the opposite elbow.",
+      "Partner rebounds and passes; switch after 10 shots."
+    ],
+    "cues": [
+      "Ready feet",
+      "Balanced catch",
+      "Follow through"
+    ],
+    "progression": "Set a makes goal or add a controlled closeout."
+  },
+  {
+    "id": "BB-A-018",
+    "level": "Academy",
+    "category": "Shooting",
+    "title": "One-Dribble Pull-Up",
+    "duration": 8,
+    "players": "1+",
+    "equipment": "1 ball, cone, basket",
+    "image": "one-dribble-pull-up.png",
+    "setup": "Place a cone on the wing and start with the ball behind it.",
+    "steps": [
+      "Attack past the cone using one dribble.",
+      "Gather into a legal balanced stop.",
+      "Rise straight into the pull-up jumper."
+    ],
+    "cues": [
+      "Control speed",
+      "Balanced stop",
+      "Rise straight"
+    ],
+    "progression": "Work both directions, then add a live defender."
+  },
+  {
+    "id": "BB-F-019",
+    "level": "Foundations",
+    "category": "Ball Handling",
+    "title": "Low–High Dribble Control",
+    "duration": 5,
+    "players": "1+",
+    "equipment": "1 basketball",
+    "image": "low-high-dribble-control.png",
+    "setup": "One player with one ball in clear space.",
+    "steps": [
+      "Dribble below knee height for 10 seconds.",
+      "Move to a controlled waist-high dribble for 10 seconds.",
+      "Repeat and switch hands."
+    ],
+    "cues": [
+      "Eyes up",
+      "Fingertip control",
+      "Hand above ball"
+    ],
+    "progression": "Alternate heights on the coach’s signal."
+  },
+  {
+    "id": "BB-D-020",
+    "level": "Development",
+    "category": "Ball Handling",
+    "title": "Crossover Cone Zigzag",
+    "duration": 7,
+    "players": "1+",
+    "equipment": "1 ball, 4 cones",
+    "image": "crossover-cone-zigzag.png",
+    "setup": "Stagger four cones 6–8 feet apart.",
+    "steps": [
+      "Attack the first cone.",
+      "Use a low crossover to change direction.",
+      "Continue through all cones with controlled pace."
+    ],
+    "cues": [
+      "Stay low",
+      "Push off",
+      "Control before speed"
+    ],
+    "progression": "Reduce cone spacing or add a finishing move at the basket."
+  },
+  {
+    "id": "BB-A-021",
+    "level": "Academy",
+    "category": "Ball Handling",
+    "title": "In-and-Out Attack",
+    "duration": 7,
+    "players": "1+",
+    "equipment": "1 ball, 1 cone",
+    "image": "in-and-out-attack.png",
+    "setup": "Start eight feet from a cone with one basketball.",
+    "steps": [
+      "Attack the cone under control.",
+      "Fake the ball inward using the same dribbling hand.",
+      "Push the ball outward and accelerate past the cone."
+    ],
+    "cues": [
+      "Same hand",
+      "No palming",
+      "Change pace"
+    ],
+    "progression": "Add a live defender and finish at the rim."
+  },
+  {
+    "id": "BB-D-022",
+    "level": "Development",
+    "category": "Ball Handling",
+    "title": "Stationary V-Dribble",
+    "duration": 3,
+    "players": "1+",
+    "equipment": "1 ball",
+    "image": "stationary-v-dribble.png",
+    "setup": "One ball and clear space.",
+    "steps": [
+      "Dribble side to side in front using the same hand.",
+      "Work 30 seconds per hand and repeat."
+    ],
+    "cues": [
+      "Hand above ball",
+      "Knees bent",
+      "No carrying"
+    ],
+    "progression": "Increase tempo while maintaining control."
+  },
+  {
+    "id": "BB-F-023",
+    "level": "Foundations",
+    "category": "Ball Handling",
+    "title": "Walking Weak-Hand Control",
+    "duration": 4,
+    "players": "1+",
+    "equipment": "1 ball, cone",
+    "image": "walking-weak-hand-control.png",
+    "setup": "Clear 20-foot lane with a cone.",
+    "steps": [
+      "Walk to cone using weaker hand.",
+      "Turn under control and return for four trips."
+    ],
+    "cues": [
+      "Eyes up",
+      "Waist-high or lower",
+      "Control first"
+    ],
+    "progression": "Progress from walking to a controlled jog."
+  },
+  {
+    "id": "BB-D-024",
+    "level": "Development",
+    "category": "Ball Handling",
+    "title": "Protect & Pivot Dribble",
+    "duration": 4,
+    "players": "2+",
+    "equipment": "1 ball",
+    "image": "protect-and-pivot-dribble.png",
+    "setup": "Partner acts as stationary shadow defender.",
+    "steps": [
+      "Keep dribbling while using body to shield ball.",
+      "Change facing direction without ending dribble; switch roles."
+    ],
+    "cues": [
+      "Body between ball and defender",
+      "Free arm bent",
+      "Stay balanced"
+    ],
+    "progression": "Allow shadow defender to move slowly."
+  },
+  {
+    "id": "BB-F-025",
+    "level": "Foundations",
+    "category": "Shooting",
+    "title": "Close-Range Make & Move",
+    "duration": 6,
+    "players": "1+",
+    "equipment": "1 ball, basket",
+    "image": "close-range-make-and-move.png",
+    "setup": "Three close shooting spots.",
+    "steps": [
+      "Take three shots at each spot, then move."
+    ],
+    "cues": [
+      "Balance",
+      "Soft touch",
+      "Hold finish"
+    ],
+    "progression": "Move slightly farther only after consistent technique."
+  },
+  {
+    "id": "BB-D-026",
+    "level": "Development",
+    "category": "Shooting",
+    "title": "Step-In Ready Shot",
+    "duration": 6,
+    "players": "2+",
+    "equipment": "1 ball, basket",
+    "image": "step-in-ready-shot.png",
+    "setup": "Partner and ball within comfortable range.",
+    "steps": [
+      "Step toward pass, catch into balanced stop and shoot.",
+      "Switch after five attempts."
+    ],
+    "cues": [
+      "Hands ready",
+      "Feet set",
+      "Finish high"
+    ],
+    "progression": "Add a controlled pass from a new angle."
+  },
+  {
+    "id": "BB-D-027",
+    "level": "Development",
+    "category": "Shooting",
+    "title": "Free-Throw Routine",
+    "duration": 6,
+    "players": "1+",
+    "equipment": "1 ball, basket",
+    "image": "free-throw-routine.png",
+    "setup": "Use regulation or closer practice line.",
+    "steps": [
+      "Breathe and use the same routine before every attempt.",
+      "Aim, shoot and reset."
+    ],
+    "cues": [
+      "Same routine",
+      "Relax shoulders",
+      "Hold finish"
+    ],
+    "progression": "Track makes across three sets."
+  },
+  {
+    "id": "BB-A-028",
+    "level": "Academy",
+    "category": "Shooting",
+    "title": "Pass & Relocate Shooting",
+    "duration": 8,
+    "players": "2+",
+    "equipment": "1 ball, basket",
+    "image": "pass-and-relocate-shooting.png",
+    "setup": "Two players at wing and top/corner spots.",
+    "steps": [
+      "Pass, relocate to corner, receive return pass and shoot.",
+      "Switch roles."
+    ],
+    "cues": [
+      "Move after passing",
+      "Show target",
+      "Arrive balanced"
+    ],
+    "progression": "Add a controlled closeout."
+  },
+  {
+    "id": "BB-A-029",
+    "level": "Academy",
+    "category": "Shooting",
+    "title": "Curl-Cut Catch & Shoot",
+    "duration": 8,
+    "players": "2+",
+    "equipment": "1 cone, 1 ball, basket",
+    "image": "curl-cut-catch-and-shoot.png",
+    "setup": "Cone, partner and ball.",
+    "steps": [
+      "Curl around cone, receive pass, stop legally and shoot.",
+      "Repeat both sides."
+    ],
+    "cues": [
+      "Tight route",
+      "Eyes to passer",
+      "Balanced stop"
+    ],
+    "progression": "Vary the cut angle."
+  },
+  {
+    "id": "BB-F-030",
+    "level": "Foundations",
+    "category": "Footwork",
+    "title": "Jump Stop & Freeze",
+    "duration": 5,
+    "players": "1+",
+    "equipment": "2 cones",
+    "image": "jump-stop-and-freeze.png",
+    "setup": "Two cones 10 feet apart.",
+    "steps": [
+      "Jog slowly and make a low two-foot stop.",
+      "Freeze for two seconds and walk back."
+    ],
+    "cues": [
+      "Quiet feet",
+      "Bend knees",
+      "Stay balanced"
+    ],
+    "progression": "Add a ball after footwork is consistent."
+  },
+  {
+    "id": "BB-F-031",
+    "level": "Foundations",
+    "category": "Footwork",
+    "title": "Pivot Clock",
+    "duration": 5,
+    "players": "1+",
+    "equipment": "1 ball, 3 markers",
+    "image": "pivot-clock.png",
+    "setup": "Three floor markers around a pivot spot.",
+    "steps": [
+      "Keep one foot planted and step the other to each marker.",
+      "Switch pivot feet."
+    ],
+    "cues": [
+      "Anchor pivot foot",
+      "Eyes up",
+      "Protect ball"
+    ],
+    "progression": "Call markers randomly."
+  },
+  {
+    "id": "BB-D-032",
+    "level": "Development",
+    "category": "Footwork",
+    "title": "Jab Step & Reset",
+    "duration": 5,
+    "players": "1+",
+    "equipment": "1 ball",
+    "image": "jab-step-and-reset.png",
+    "setup": "Start in triple threat.",
+    "steps": [
+      "Keep pivot foot planted, jab with other foot and reset.",
+      "Work both sides."
+    ],
+    "cues": [
+      "Short jab",
+      "Stay balanced",
+      "No pivot slide"
+    ],
+    "progression": "Add a pass or drive read."
+  },
+  {
+    "id": "BB-D-033",
+    "level": "Development",
+    "category": "Footwork",
+    "title": "Front & Reverse Pivot",
+    "duration": 6,
+    "players": "1+",
+    "equipment": "1 ball",
+    "image": "front-and-reverse-pivot.png",
+    "setup": "One ball and clear space.",
+    "steps": [
+      "Practice front pivot then reverse pivot.",
+      "Repeat using other pivot foot."
+    ],
+    "cues": [
+      "Stay low",
+      "Turn around planted foot",
+      "Protect ball"
+    ],
+    "progression": "Add a partner target after pivot."
+  },
+  {
+    "id": "BB-A-034",
+    "level": "Academy",
+    "category": "Footwork",
+    "title": "V-Cut to Get Open",
+    "duration": 7,
+    "players": "2+",
+    "equipment": "1 ball",
+    "image": "v-cut-to-get-open.png",
+    "setup": "Passer at top, receiver on wing.",
+    "steps": [
+      "Cut in, plant under control, push back out and receive pass."
+    ],
+    "cues": [
+      "Change pace",
+      "Show hands",
+      "Stay controlled"
+    ],
+    "progression": "Add a shadow defender."
+  },
+  {
+    "id": "BB-F-035",
+    "level": "Foundations",
+    "category": "Passing",
+    "title": "Chest Pass Target",
+    "duration": 5,
+    "players": "2+",
+    "equipment": "1 ball",
+    "image": "chest-pass-target.png",
+    "setup": "Partners six feet apart.",
+    "steps": [
+      "Step toward target and make a chest pass.",
+      "Catch softly and return."
+    ],
+    "cues": [
+      "Show hands",
+      "Step and push",
+      "Thumbs finish down"
+    ],
+    "progression": "Increase distance gradually."
+  },
+  {
+    "id": "BB-D-036",
+    "level": "Development",
+    "category": "Passing",
+    "title": "Overhead Pass to Partner",
+    "duration": 5,
+    "players": "2+",
+    "equipment": "1 ball",
+    "image": "overhead-pass-to-partner.png",
+    "setup": "Partners 8–10 feet apart.",
+    "steps": [
+      "Bring ball above forehead, step and pass forward.",
+      "Partner returns."
+    ],
+    "cues": [
+      "Two hands",
+      "No deep backswing",
+      "Aim at target"
+    ],
+    "progression": "Add light movement before receiving."
+  },
+  {
+    "id": "BB-D-037",
+    "level": "Development",
+    "category": "Passing",
+    "title": "Pivot & Pass to Target",
+    "duration": 6,
+    "players": "3+",
+    "equipment": "1 ball",
+    "image": "pivot-and-pass-to-target.png",
+    "setup": "Three players in a wide triangle.",
+    "steps": [
+      "Coach calls target; pivot legally and pass.",
+      "Rotate roles."
+    ],
+    "cues": [
+      "Anchor pivot foot",
+      "See target",
+      "Balanced pass"
+    ],
+    "progression": "Speed up the decision call."
+  },
+  {
+    "id": "BB-D-038",
+    "level": "Development",
+    "category": "Passing",
+    "title": "Pass Fake & Find",
+    "duration": 6,
+    "players": "3+",
+    "equipment": "1 ball",
+    "image": "pass-fake-and-find.png",
+    "setup": "Passer, receiver and shadow defender.",
+    "steps": [
+      "Fake one direction, step and pass through open lane."
+    ],
+    "cues": [
+      "Sell fake",
+      "Keep pivot legal",
+      "Pass away from hands"
+    ],
+    "progression": "Allow defender to shadow slowly."
+  },
+  {
+    "id": "BB-A-039",
+    "level": "Academy",
+    "category": "Passing",
+    "title": "Three-Player Weave",
+    "duration": 7,
+    "players": "3+",
+    "equipment": "1 ball",
+    "image": "three-player-weave.png",
+    "setup": "Three lanes, three players, one ball.",
+    "steps": [
+      "Middle passes to side and follows behind receiver.",
+      "Repeat toward half court."
+    ],
+    "cues": [
+      "Lead receiver",
+      "Move behind",
+      "Maintain spacing"
+    ],
+    "progression": "Progress from walk to controlled jog."
+  },
+  {
+    "id": "BB-A-040",
+    "level": "Academy",
+    "category": "Passing",
+    "title": "Three-on-One Keep-Away",
+    "duration": 6,
+    "players": "4",
+    "equipment": "1 ball",
+    "image": "three-on-one-keep-away.png",
+    "setup": "Three passers around triangle and one defender.",
+    "steps": [
+      "Keep possession using passes and legal pivots; no dribbling."
+    ],
+    "cues": [
+      "Scan first",
+      "Use pass fakes",
+      "Avoid forced passes"
+    ],
+    "progression": "Reduce space for added challenge."
+  },
+  {
+    "id": "BB-F-041",
+    "level": "Foundations",
+    "category": "Defense",
+    "title": "Mirror Defensive Slides",
+    "duration": 4,
+    "players": "2+",
+    "equipment": "none",
+    "image": "mirror-defensive-slides.png",
+    "setup": "Partners six feet apart.",
+    "steps": [
+      "Leader moves slowly side to side; defender mirrors without contact."
+    ],
+    "cues": [
+      "Stay low",
+      "Small slides",
+      "Do not cross feet"
+    ],
+    "progression": "Increase duration gradually."
+  },
+  {
+    "id": "BB-D-042",
+    "level": "Development",
+    "category": "Defense",
+    "title": "Closeout to Stance",
+    "duration": 5,
+    "players": "2+",
+    "equipment": "1 ball",
+    "image": "closeout-to-stance.png",
+    "setup": "Defender starts ten feet from stationary ballholder.",
+    "steps": [
+      "Approach, shorten steps and stop in balanced stance."
+    ],
+    "cues": [
+      "High hands",
+      "No jumping",
+      "Stay balanced"
+    ],
+    "progression": "Add a pass after closeout."
+  },
+  {
+    "id": "BB-D-043",
+    "level": "Development",
+    "category": "Defense",
+    "title": "Cut-Off the Drive",
+    "duration": 6,
+    "players": "2+",
+    "equipment": "1 ball",
+    "image": "cut-off-the-drive.png",
+    "setup": "Partners in wide lane.",
+    "steps": [
+      "Attacker uses up to two slow dribbles; defender slides to stay between ball and basket."
+    ],
+    "cues": [
+      "Move feet",
+      "No reaching",
+      "No contact"
+    ],
+    "progression": "Increase attacker speed gradually."
+  },
+  {
+    "id": "BB-A-044",
+    "level": "Academy",
+    "category": "Defense",
+    "title": "Help & Recover",
+    "duration": 7,
+    "players": "3+",
+    "equipment": "1 ball",
+    "image": "help-and-recover.png",
+    "setup": "Two offensive players and one wing defender.",
+    "steps": [
+      "Step toward controlled drive to help; recover on pass."
+    ],
+    "cues": [
+      "See ball and player",
+      "Communicate",
+      "Controlled closeout"
+    ],
+    "progression": "Add second defender."
+  },
+  {
+    "id": "BB-A-045",
+    "level": "Academy",
+    "category": "Defense",
+    "title": "Shell Rotation",
+    "duration": 8,
+    "players": "8",
+    "equipment": "1 ball",
+    "image": "shell-rotation.png",
+    "setup": "Four attackers outside lane and four defenders.",
+    "steps": [
+      "Offense passes only; defenders shift into on-ball, help and recovery positions."
+    ],
+    "cues": [
+      "Talk early",
+      "See ball and player",
+      "Move on pass"
+    ],
+    "progression": "Allow controlled drives after rotations are sound."
+  },
+  {
+    "id": "BB-F-046",
+    "level": "Foundations",
+    "category": "Rebounding",
+    "title": "Rebound & Chin",
+    "duration": 5,
+    "players": "2+",
+    "equipment": "1 ball",
+    "image": "rebound-and-chin.png",
+    "setup": "Partner makes gentle high toss.",
+    "steps": [
+      "Catch with two hands, land softly and secure ball."
+    ],
+    "cues": [
+      "Watch ball",
+      "Soft landing",
+      "Elbows in"
+    ],
+    "progression": "Add a pivot after securing."
+  },
+  {
+    "id": "BB-D-047",
+    "level": "Development",
+    "category": "Rebounding",
+    "title": "Find-Hit-Get",
+    "duration": 6,
+    "players": "3+",
+    "equipment": "1 ball",
+    "image": "find-hit-get.png",
+    "setup": "Rebounder, shadow partner and coach.",
+    "steps": [
+      "Find partner, establish legal position, pursue coach toss."
+    ],
+    "cues": [
+      "Position, not striking",
+      "No pushing",
+      "Two hands"
+    ],
+    "progression": "Introduce controlled live contact."
+  },
+  {
+    "id": "BB-F-048",
+    "level": "Foundations",
+    "category": "Rebounding",
+    "title": "Wall Rebound Timing",
+    "duration": 5,
+    "players": "1+",
+    "equipment": "soft ball, wall",
+    "image": "wall-rebound-timing.png",
+    "setup": "Clear wall with adult supervision.",
+    "steps": [
+      "Toss gently above shoulder height and catch return with two hands."
+    ],
+    "cues": [
+      "Gentle toss",
+      "Eyes on ball",
+      "Feet balanced"
+    ],
+    "progression": "Vary target height slightly."
+  },
+  {
+    "id": "BB-D-049",
+    "level": "Development",
+    "category": "Rebounding",
+    "title": "Outlet After Rebound",
+    "duration": 7,
+    "players": "3+",
+    "equipment": "1 ball, basket",
+    "image": "outlet-after-rebound.png",
+    "setup": "Coach, rebounder and sideline outlet.",
+    "steps": [
+      "Secure rebound, pivot legally, see outlet and pass."
+    ],
+    "cues": [
+      "Secure first",
+      "Look before passing",
+      "No blind throws"
+    ],
+    "progression": "Add a shadow defender."
+  },
+  {
+    "id": "BB-A-050",
+    "level": "Academy",
+    "category": "Rebounding",
+    "title": "Two-Player Box-Out Battle",
+    "duration": 7,
+    "players": "3+",
+    "equipment": "1 ball, basket",
+    "image": "two-player-box-out-battle.png",
+    "setup": "Matched partners and coach.",
+    "steps": [
+      "Coach tosses; defender establishes legal position; both pursue under control."
+    ],
+    "cues": [
+      "No holding",
+      "Protect landing space",
+      "Secure ball"
+    ],
+    "progression": "Play live only with controlled contact."
+  },
+  {
+    "id": "BB-A-051",
+    "level": "Academy",
+    "category": "Rebounding",
+    "title": "Weak-Side Rebound Read",
+    "duration": 7,
+    "players": "2+",
+    "equipment": "1 ball, basket",
+    "image": "weak-side-rebound-read.png",
+    "setup": "Shooter on wing, rebounder opposite side.",
+    "steps": [
+      "Read shot flight, move to likely path and rebound with two hands."
+    ],
+    "cues": [
+      "Read flight",
+      "Do not assume bounce",
+      "Land balanced"
+    ],
+    "progression": "Vary shot locations."
+  },
+  {
+    "id": "BB-F-052",
+    "level": "Foundations",
+    "category": "Conditioning",
+    "title": "Cone Adventure",
+    "duration": 4,
+    "players": "1+",
+    "equipment": "3 cones",
+    "image": "cone-adventure.png",
+    "setup": "Use the marked space shown in the drill visual.",
+    "steps": [
+      "Warm up first.",
+      "Perform the drill at the age-appropriate controlled dose shown on the card.",
+      "Walk or rest between efforts."
+    ],
+    "cues": [
+      "Movement quality first",
+      "Controlled turns and landings",
+      "Hydrate and rest"
+    ],
+    "progression": "Increase only when technique and recovery remain consistent."
+  },
+  {
+    "id": "BB-F-053",
+    "level": "Foundations",
+    "category": "Conditioning",
+    "title": "Line Hop & Freeze",
+    "duration": 4,
+    "players": "1+",
+    "equipment": "floor line",
+    "image": "line-hop-and-freeze.png",
+    "setup": "Use the marked space shown in the drill visual.",
+    "steps": [
+      "Warm up first.",
+      "Perform the drill at the age-appropriate controlled dose shown on the card.",
+      "Walk or rest between efforts."
+    ],
+    "cues": [
+      "Movement quality first",
+      "Controlled turns and landings",
+      "Hydrate and rest"
+    ],
+    "progression": "Increase only when technique and recovery remain consistent."
+  },
+  {
+    "id": "BB-F-054",
+    "level": "Foundations",
+    "category": "Conditioning",
+    "title": "Color Cone Shuttle",
+    "duration": 4,
+    "players": "1+",
+    "equipment": "3 cones",
+    "image": "color-cone-shuttle.png",
+    "setup": "Use the marked space shown in the drill visual.",
+    "steps": [
+      "Warm up first.",
+      "Perform the drill at the age-appropriate controlled dose shown on the card.",
+      "Walk or rest between efforts."
+    ],
+    "cues": [
+      "Movement quality first",
+      "Controlled turns and landings",
+      "Hydrate and rest"
+    ],
+    "progression": "Increase only when technique and recovery remain consistent."
+  },
+  {
+    "id": "BB-F-055",
+    "level": "Foundations",
+    "category": "Conditioning",
+    "title": "Side-Step Trail",
+    "duration": 4,
+    "players": "1+",
+    "equipment": "2 cones",
+    "image": "side-step-trail.png",
+    "setup": "Use the marked space shown in the drill visual.",
+    "steps": [
+      "Warm up first.",
+      "Perform the drill at the age-appropriate controlled dose shown on the card.",
+      "Walk or rest between efforts."
+    ],
+    "cues": [
+      "Movement quality first",
+      "Controlled turns and landings",
+      "Hydrate and rest"
+    ],
+    "progression": "Increase only when technique and recovery remain consistent."
+  },
+  {
+    "id": "BB-F-056",
+    "level": "Foundations",
+    "category": "Conditioning",
+    "title": "Quick-Feet Ladder Walk",
+    "duration": 4,
+    "players": "1+",
+    "equipment": "floor tape",
+    "image": "quick-feet-ladder-walk.png",
+    "setup": "Use the marked space shown in the drill visual.",
+    "steps": [
+      "Warm up first.",
+      "Perform the drill at the age-appropriate controlled dose shown on the card.",
+      "Walk or rest between efforts."
+    ],
+    "cues": [
+      "Movement quality first",
+      "Controlled turns and landings",
+      "Hydrate and rest"
+    ],
+    "progression": "Increase only when technique and recovery remain consistent."
+  },
+  {
+    "id": "BB-D-057",
+    "level": "Development",
+    "category": "Conditioning",
+    "title": "Baseline–Sideline Shuttle",
+    "duration": 5,
+    "players": "1+",
+    "equipment": "3 cones",
+    "image": "baseline-sideline-shuttle.png",
+    "setup": "Use the marked space shown in the drill visual.",
+    "steps": [
+      "Warm up first.",
+      "Perform the drill at the age-appropriate controlled dose shown on the card.",
+      "Walk or rest between efforts."
+    ],
+    "cues": [
+      "Movement quality first",
+      "Controlled turns and landings",
+      "Hydrate and rest"
+    ],
+    "progression": "Increase only when technique and recovery remain consistent."
+  },
+  {
+    "id": "BB-D-058",
+    "level": "Development",
+    "category": "Conditioning",
+    "title": "Ladder Quick-Step Series",
+    "duration": 5,
+    "players": "1+",
+    "equipment": "floor tape",
+    "image": "ladder-quick-step-series.png",
+    "setup": "Use the marked space shown in the drill visual.",
+    "steps": [
+      "Warm up first.",
+      "Perform the drill at the age-appropriate controlled dose shown on the card.",
+      "Walk or rest between efforts."
+    ],
+    "cues": [
+      "Movement quality first",
+      "Controlled turns and landings",
+      "Hydrate and rest"
+    ],
+    "progression": "Increase only when technique and recovery remain consistent."
+  },
+  {
+    "id": "BB-D-059",
+    "level": "Development",
+    "category": "Conditioning",
+    "title": "Jump-Stop Conditioning Circuit",
+    "duration": 5,
+    "players": "1+",
+    "equipment": "3 cones",
+    "image": "jump-stop-conditioning-circuit.png",
+    "setup": "Use the marked space shown in the drill visual.",
+    "steps": [
+      "Warm up first.",
+      "Perform the drill at the age-appropriate controlled dose shown on the card.",
+      "Walk or rest between efforts."
+    ],
+    "cues": [
+      "Movement quality first",
+      "Controlled turns and landings",
+      "Hydrate and rest"
+    ],
+    "progression": "Increase only when technique and recovery remain consistent."
+  },
+  {
+    "id": "BB-D-060",
+    "level": "Development",
+    "category": "Conditioning",
+    "title": "Defensive Slide + Sprint",
+    "duration": 5,
+    "players": "1+",
+    "equipment": "cones",
+    "image": "defensive-slide-and-sprint.png",
+    "setup": "Use the marked space shown in the drill visual.",
+    "steps": [
+      "Warm up first.",
+      "Perform the drill at the age-appropriate controlled dose shown on the card.",
+      "Walk or rest between efforts."
+    ],
+    "cues": [
+      "Movement quality first",
+      "Controlled turns and landings",
+      "Hydrate and rest"
+    ],
+    "progression": "Increase only when technique and recovery remain consistent."
+  },
+  {
+    "id": "BB-D-061",
+    "level": "Development",
+    "category": "Conditioning",
+    "title": "Cone Reaction Shuttle",
+    "duration": 5,
+    "players": "1+",
+    "equipment": "2 cones",
+    "image": "cone-reaction-shuttle.png",
+    "setup": "Use the marked space shown in the drill visual.",
+    "steps": [
+      "Warm up first.",
+      "Perform the drill at the age-appropriate controlled dose shown on the card.",
+      "Walk or rest between efforts."
+    ],
+    "cues": [
+      "Movement quality first",
+      "Controlled turns and landings",
+      "Hydrate and rest"
+    ],
+    "progression": "Increase only when technique and recovery remain consistent."
+  },
+  {
+    "id": "BB-A-062",
+    "level": "Academy",
+    "category": "Conditioning",
+    "title": "Basketball Line Shuttle",
+    "duration": 6,
+    "players": "1+",
+    "equipment": "court lines",
+    "image": "basketball-line-shuttle.png",
+    "setup": "Use the marked space shown in the drill visual.",
+    "steps": [
+      "Warm up first.",
+      "Perform the drill at the age-appropriate controlled dose shown on the card.",
+      "Walk or rest between efforts."
+    ],
+    "cues": [
+      "Movement quality first",
+      "Controlled turns and landings",
+      "Hydrate and rest"
+    ],
+    "progression": "Increase only when technique and recovery remain consistent."
+  },
+  {
+    "id": "BB-A-063",
+    "level": "Academy",
+    "category": "Conditioning",
+    "title": "Sprint–Backpedal Intervals",
+    "duration": 6,
+    "players": "1+",
+    "equipment": "3 cones",
+    "image": "sprint-backpedal-intervals.png",
+    "setup": "Use the marked space shown in the drill visual.",
+    "steps": [
+      "Warm up first.",
+      "Perform the drill at the age-appropriate controlled dose shown on the card.",
+      "Walk or rest between efforts."
+    ],
+    "cues": [
+      "Movement quality first",
+      "Controlled turns and landings",
+      "Hydrate and rest"
+    ],
+    "progression": "Increase only when technique and recovery remain consistent."
+  },
+  {
+    "id": "BB-A-064",
+    "level": "Academy",
+    "category": "Conditioning",
+    "title": "Closeout–Slide–Sprint",
+    "duration": 6,
+    "players": "1+",
+    "equipment": "cones",
+    "image": "closeout-slide-sprint.png",
+    "setup": "Use the marked space shown in the drill visual.",
+    "steps": [
+      "Warm up first.",
+      "Perform the drill at the age-appropriate controlled dose shown on the card.",
+      "Walk or rest between efforts."
+    ],
+    "cues": [
+      "Movement quality first",
+      "Controlled turns and landings",
+      "Hydrate and rest"
+    ],
+    "progression": "Increase only when technique and recovery remain consistent."
+  },
+  {
+    "id": "BB-A-065",
+    "level": "Academy",
+    "category": "Conditioning",
+    "title": "Lateral Bound + Sprint",
+    "duration": 6,
+    "players": "1+",
+    "equipment": "1 cone",
+    "image": "lateral-bound-and-sprint.png",
+    "setup": "Use the marked space shown in the drill visual.",
+    "steps": [
+      "Warm up first.",
+      "Perform the drill at the age-appropriate controlled dose shown on the card.",
+      "Walk or rest between efforts."
+    ],
+    "cues": [
+      "Movement quality first",
+      "Controlled turns and landings",
+      "Hydrate and rest"
+    ],
+    "progression": "Increase only when technique and recovery remain consistent."
+  },
+  {
+    "id": "BB-A-066",
+    "level": "Academy",
+    "category": "Conditioning",
+    "title": "Full-Court Change-of-Direction",
+    "duration": 6,
+    "players": "1+",
+    "equipment": "4 cones",
+    "image": "full-court-change-of-direction.png",
+    "setup": "Use the marked space shown in the drill visual.",
+    "steps": [
+      "Warm up first.",
+      "Perform the drill at the age-appropriate controlled dose shown on the card.",
+      "Walk or rest between efforts."
+    ],
+    "cues": [
+      "Movement quality first",
+      "Controlled turns and landings",
+      "Hydrate and rest"
+    ],
+    "progression": "Increase only when technique and recovery remain consistent."
   }
 ]
