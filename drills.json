@@ -65,7 +65,8 @@
       "Finish high",
       "Balanced stance"
     ],
-    "progression": "Back up one step after making three controlled shots."
+    "progression": "Back up one step after making three controlled shots.",
+    "image": "one-hand-form-shooting.png"
   },
   {
     "id": "BB-F-004",
@@ -87,7 +88,8 @@
       "Knee up",
       "Soft finish"
     ],
-    "progression": "Alternate sides and add a passive defender."
+    "progression": "Alternate sides and add a passive defender.",
+    "image": "layup-footwork-progression.png"
   },
   {
     "id": "BB-D-005",
@@ -109,7 +111,8 @@
       "Push ball forward",
       "Win the shoulder"
     ],
-    "progression": "Add a live defender and require a finish."
+    "progression": "Add a live defender and require a finish.",
+    "image": "hesitation-and-go.png"
   },
   {
     "id": "BB-D-006",
@@ -131,7 +134,8 @@
       "Create space",
       "Do not turn blindly"
     ],
-    "progression": "Use a second defender to simulate a trap."
+    "progression": "Use a second defender to simulate a trap.",
+    "image": "retreat-dribble-press-break.png"
   },
   {
     "id": "BB-D-007",
