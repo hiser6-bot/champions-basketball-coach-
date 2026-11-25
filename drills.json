@@ -1417,5 +1417,201 @@
       "Hydrate and rest"
     ],
     "progression": "Increase only when technique and recovery remain consistent."
+  },
+  {
+    "id": "BB-F-067",
+    "level": "Foundations",
+    "category": "Footwork",
+    "title": "Triple-Threat Step-In",
+    "duration": 4,
+    "players": "1+",
+    "equipment": "1 ball, 2 floor spots",
+    "image": "triple-threat-step-in.png",
+    "setup": "Two floor spots and one ball.",
+    "steps": [
+      "From a standstill, step onto the spots and set your feet.",
+      "Hold a balanced triple-threat position for two seconds, then reset without traveling."
+    ],
+    "cues": [
+      "Feet balanced",
+      "Knees bent",
+      "Eyes up"
+    ],
+    "progression": "Add a controlled pass after establishing triple threat."
+  },
+  {
+    "id": "BB-F-068",
+    "level": "Foundations",
+    "category": "Defense",
+    "title": "Gate Guard",
+    "duration": 4,
+    "players": "2+",
+    "equipment": "2 cones",
+    "image": "gate-guard.png",
+    "setup": "Two cones six feet apart with matched partners.",
+    "steps": [
+      "Partner approaches either cone at walking pace.",
+      "Defender mirrors from a safe distance and stays between the partner and the gate.",
+      "Switch roles."
+    ],
+    "cues": [
+      "Small steps",
+      "No grabbing",
+      "Stay between partner and gate"
+    ],
+    "progression": "Increase movement pace gradually while maintaining spacing."
+  },
+  {
+    "id": "BB-F-069",
+    "level": "Foundations",
+    "category": "Rebounding",
+    "title": "Bounce–Track–Catch",
+    "duration": 4,
+    "players": "2+",
+    "equipment": "1 soft ball",
+    "image": "bounce-track-catch.png",
+    "setup": "Partner, age-appropriate ball and clear space.",
+    "steps": [
+      "Partner gently bounces the ball slightly left or right.",
+      "Move behind the ball path and catch it with two hands."
+    ],
+    "cues": [
+      "Track ball",
+      "Move feet",
+      "Secure catch"
+    ],
+    "progression": "Vary bounce direction slightly while keeping pace controlled."
+  },
+  {
+    "id": "BB-D-070",
+    "level": "Development",
+    "category": "Footwork",
+    "title": "Pass–Sprint–Square",
+    "duration": 6,
+    "players": "2+",
+    "equipment": "1 ball, 2 floor spots",
+    "image": "pass-sprint-square.png",
+    "setup": "Partner, ball and two spots five feet away.",
+    "steps": [
+      "Pass to your partner and move to the spots.",
+      "Set your feet and receive the return pass facing the basket.",
+      "Switch roles."
+    ],
+    "cues": [
+      "Move without ball",
+      "Set feet",
+      "Balanced catch"
+    ],
+    "progression": "Increase movement speed while preserving balance."
+  },
+  {
+    "id": "BB-D-071",
+    "level": "Development",
+    "category": "Defense",
+    "title": "Deny & Recover",
+    "duration": 6,
+    "players": "3+",
+    "equipment": "1 ball",
+    "image": "deny-and-recover.png",
+    "setup": "Passer, wing receiver and defender.",
+    "steps": [
+      "Shade the passing lane at teaching pace.",
+      "On the signal, recover between the receiver and basket.",
+      "Rotate roles."
+    ],
+    "cues": [
+      "See ball and player",
+      "No holding",
+      "Recover balanced"
+    ],
+    "progression": "Allow controlled passing decisions after positioning is consistent."
+  },
+  {
+    "id": "BB-D-072",
+    "level": "Development",
+    "category": "Rebounding",
+    "title": "Land–Pivot–Protect",
+    "duration": 6,
+    "players": "2+",
+    "equipment": "1 ball",
+    "image": "land-pivot-protect.png",
+    "setup": "Coach or partner, one ball and clear landing space.",
+    "steps": [
+      "Catch a gentle high toss with two hands.",
+      "Land softly and secure the ball.",
+      "Pivot legally away from a called side."
+    ],
+    "cues": [
+      "Land first",
+      "Elbows in",
+      "Pivot legally"
+    ],
+    "progression": "Add an outlet target after the pivot."
+  },
+  {
+    "id": "BB-A-073",
+    "level": "Academy",
+    "category": "Footwork",
+    "title": "Post Re-Seal Footwork",
+    "duration": 7,
+    "players": "3+",
+    "equipment": "1 ball optional",
+    "image": "post-re-seal-footwork.png",
+    "setup": "Passer and post player with a stationary shadow defender.",
+    "steps": [
+      "Without the ball, step around the shadow to create a new passing angle.",
+      "Set a balanced base and show a target.",
+      "Rotate roles."
+    ],
+    "cues": [
+      "Quick reposition",
+      "No hooking",
+      "Balanced base"
+    ],
+    "progression": "Allow controlled live positioning without holding or pushing."
+  },
+  {
+    "id": "BB-A-074",
+    "level": "Academy",
+    "category": "Defense",
+    "title": "Two-on-Two Screen Talk",
+    "duration": 7,
+    "players": "4",
+    "equipment": "1 ball optional",
+    "image": "two-on-two-screen-talk.png",
+    "setup": "Two attackers and two defenders with a stationary screen at walking pace.",
+    "steps": [
+      "Call the screen early.",
+      "Practice a coach-directed switch, then reset.",
+      "Rotate roles after six slow repetitions."
+    ],
+    "cues": [
+      "Talk early",
+      "See screen",
+      "No moving screens"
+    ],
+    "progression": "Add controlled ball movement after communication is consistent."
+  },
+  {
+    "id": "BB-A-075",
+    "level": "Academy",
+    "category": "Rebounding",
+    "title": "Two-on-Two Rebound & Outlet",
+    "duration": 8,
+    "players": "5+",
+    "equipment": "1 ball, basket",
+    "image": "two-on-two-rebound-and-outlet.png",
+    "setup": "Two matched pairs, coach and sideline outlet target.",
+    "steps": [
+      "Coach shoots or tosses toward the basket.",
+      "Defenders establish legal position and pursue the rebound.",
+      "Secure the ball before making the outlet pass."
+    ],
+    "cues": [
+      "No pushing",
+      "Clear landing space",
+      "Secure before passing"
+    ],
+    "progression": "Play the rebound live with controlled contact and a timed outlet."
   }
 ]
