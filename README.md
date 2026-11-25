@@ -1,7 +1,9 @@
-# Champions Drill Decks Basketball — 75 Drill Master
+# DrillTime Basketball Coach - 75 Drill Master
 
-GitHub-ready prototype with 75 basketball drills and assigned instructional visuals.
+Company: DrillTime Sports
+Product: DrillTime Sports Drill Decks
+App: DrillTime Basketball Coach
 
-Categories: Ball Handling 10, Shooting 10, Passing 10, Footwork 10, Defense 10, Rebounding 10, Conditioning 15.
+This GitHub-ready package contains 75 basketball drills, 75 rebranded visual assets, category counts, practice builder, favorites, timers, PWA support, and offline caching.
 
-Extract the ZIP and upload its contents to the root of the existing `champions-basketball-coach` repository. Allow GitHub to replace the existing app files.
+Extract and upload the contents to the repository root. Allow GitHub to replace existing files.
