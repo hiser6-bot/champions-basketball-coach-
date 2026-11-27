@@ -1,4 +1,4 @@
-const CACHE_NAME='drilltime-basketball-v12';
+const CACHE_NAME='drilltime-basketball-v13';
 const SHELL=['./','./index.html','./styles.css','./app.js','./drills.json','./manifest.json','./drilltime-sports-logo.png','./drilltime-icon-192.png','./drilltime-icon-512.png'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE_NAME).then(c=>c.addAll(SHELL)).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k!==CACHE_NAME).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
